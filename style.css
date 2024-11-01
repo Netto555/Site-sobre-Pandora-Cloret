@@ -1,0 +1,57 @@
+@font-face{
+    font-family: maria;
+    src: url(./poppins-webfont/Poppins-ExtraBold.woff);
+}
+
+.header{
+    background-color: #ffffff;
+    border: 0px;
+}
+.header h1{
+    font-family:maria;
+    font-size: 2rem; 
+    margin: 20px;
+}
+
+.header p{
+    font-family: maria;
+    font-size: 3rem;
+    text-align: left;
+    margin-left: 200px;
+}
+
+h2{
+    text-align: left;
+    margin-left: 200px;
+    ;
+}
+
+button{
+    background-color: #000000;
+    color: #ffffff;
+    border: none;
+    padding: 20px;
+    margin-left: 230px;
+    cursor: pointer;
+    
+}
+
+nav ul{
+    display: flex;
+    justify-content: space-around;
+    margin-left: 100px;
+
+}
+
+img{
+    width: 700px;
+    margin-left: 200px;
+    top: auto;
+}
+
+    
+    
+    
+    
+    
+
